@@ -1,0 +1,22 @@
+{
+  "name": "leaflet",
+  "version": "1.0.0",
+  "description": "this is a MAID ping application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "data"
+  ],
+  "author": "Femi-ige Muyiwa",
+  "license": "MIT",
+  "dependencies": {
+    "csv-writer": "^1.6.0",
+    "csvjson": "^5.1.0",
+    "express": "^4.18.1",
+    "json-2-csv": "^3.17.1",
+    "json2csv": "^5.0.7",
+    "nedb": "^1.8.0"
+  }
+}
